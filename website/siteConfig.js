@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Bionic Docs', // Title for your website.
   tagline: 'Full-Cycle Content Moderation',
   url: 'https://bionic-app.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/bionic-docs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
